@@ -1,2 +1,2 @@
-# sasac-vpn-
+# sasac-vpn
 vpn for huawei
